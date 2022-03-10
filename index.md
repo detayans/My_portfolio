@@ -30,7 +30,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** To explore Bank's marketing compaign and create meaningful insight on the data.
 
-**Quantifiable result:** We could Classify the type of tumor resulting in [*91%** accuracy using K-means algorithm](https://github.com/detayans/Logistic-Regression-Project/blob/main/ProjectLogisticReg.ipynb).
+**Quantifiable result:** We could Classify the type of tumor resulting in [**91%** accuracy using K-means algorithm](https://github.com/detayans/Logistic-Regression-Project/blob/main/ProjectLogisticReg.ipynb).
 
 - Used logistic regression to identify the client will subscribe the term deposit.
 - Encode catagorical data to numeric.
@@ -47,7 +47,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** To predict normal and abnormal status of patient based on orthopedic parameters using KNN and NB algorithm. 
 
-**Quantifiable result:** We could train the data with KNN algorithm to attain a accuracy of [82.8%] (https://github.com/detayans/KNN-NB-project/blob/main/Knn_Nb_Project.ipynb).
+**Quantifiable result:** We could train the data with KNN algorithm to attain a accuracy of [**82.8%**] (https://github.com/detayans/KNN-NB-project/blob/main/Knn_Nb_Project.ipynb).
 
 - Prepared the data for training
 - Trained the data with KNN algorithm
