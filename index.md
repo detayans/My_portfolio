@@ -24,7 +24,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [The classification goal is to predict if the client will subscribe the term deposit](https://github.com/detayans/Logistic-Regression-Project/blob/main/ProjectLogisticReg.ipynb)
 
-<img src="C:\Users\Junior Tayaye\Desktop\My_portfolio\images\image.jpg"/>
+<img src="images/image.jpg?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib
 
@@ -74,7 +74,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 
 [Identifying the hand written digits from MNIST Dataset](https://github.com/detayans/Hand_writting_recognition_project/blob/main/Hand_writting_recognition_project.ipynb)
-keras?raw=true"/>
+
+<img src="images/keras1.jpg?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow, MNIST
 
